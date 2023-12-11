@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
  * binary_tree_inorder - prints a tree using preorder traversal.
- * 
+ *
  * preorder traversal LEFT, ROOT, RIGHT
  *
  * @tree: Pointer to the root of the tree
